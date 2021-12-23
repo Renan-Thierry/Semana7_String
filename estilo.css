@@ -1,0 +1,35 @@
+body {
+    background-color: darkgrey;
+    display: flex;
+    padding: 0;
+    margin: 0;
+}
+
+#numero {
+    width: 50px;
+    border-radius: 5px;
+    border: 2px;
+}
+
+input[type=text] {
+    border-radius: 3px;
+    border: 5px;
+}
+
+h2#lista {
+    margin-top: 100px;
+}
+
+button {
+    border-radius: 3px;
+    border: 5px;
+}
+
+div.div3 {
+    background-color: aliceblue;
+    margin-top: 40px;
+}
+
+h2#lista2 {
+    text-align: center;
+}
